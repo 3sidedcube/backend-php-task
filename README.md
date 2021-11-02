@@ -29,7 +29,7 @@ Things you shouldn't worry about:
 * Environment - You can use a local version of PHP, PHP inside a Vagrant machine, or a PHP Docker image. Choose whatever you're most comfortable with!
 * Documentation - Given the small feature set you don't need to write detailed documentation. We will be able to figure out how your program works.
 * Formatting - Providing you're consistent with your approach, any formatting style is fine. Sticking to a PSR is recommended though!
-* Builds - You don't need to spend any time integrating build tools with repository. Automatically linting or test runners aren't required.
+* Builds - You don't need to spend any time integrating build tools with repository. Automatic linting or test runners aren't required.
 
 ## Submission
 
