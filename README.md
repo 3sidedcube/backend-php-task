@@ -33,8 +33,9 @@ Things you shouldn't worry about:
 
 ## Submission
 
-* Create a public Git repository on GitHub, Bitbucket, or GitLab
-* Push your work to it and send us the link
+Simply create a public Git repository on GitHub, Bitbucket, or GitLab. Then push your work to it and send us the link.
+
+Alternatively, you can create a private Git repository on GitHub. Once you've pushed your work to it just add `ty3sc` as a collaborator.
 
 ## Questions
 
