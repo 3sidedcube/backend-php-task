@@ -1,4 +1,4 @@
-# 3 Sided Cube Backend PHP Tasks
+# 3 Sided Cube Backend PHP Task
 
 ## About
 
