@@ -8,7 +8,7 @@ This repository contains the 3 Sided Cube backend PHP task. We use this to asses
 
 We want you to create a temperature converter using PHP. It needs to convert temperatures from Fahrenheit to Celsius and from Celsius to Fahrenheit.
 
-This program should be run via PHP's command line interpreter. It should use the Symfony Console component.
+This program should be run via PHP's command line interpreter. It should use the [Symfony Console](https://packagist.org/packages/symfony/console) library.
 
 We would like you to use PHPUnit to write supporting tests too.
 
