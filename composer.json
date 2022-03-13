@@ -1,0 +1,29 @@
+{
+  "name": "3sidedcube/backend-php-task",
+  "description": "task",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Shaun Collins",
+      "email": "shaun@shaunc.co.uk"
+    }
+  ],
+  "config": {
+    "platform": {
+      "php": "8.1"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Convert\\": "src/"
+    }
+  },
+  "require": {
+    "symfony/console": "^6"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-latest",
+    "phpunit/phpunit": "^9.5.18"
+  }
+}
